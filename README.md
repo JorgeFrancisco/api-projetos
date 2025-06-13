@@ -31,8 +31,8 @@ API REST para cadastro de projetos e seus respectivos funcionários, com operaç
 ### 📥 1. Clonar o repositório (se necessário)
 
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/JorgeFrancisco/api-projetos.git
+cd api-projetos
 ```
 
 ---
